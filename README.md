@@ -1,15 +1,19 @@
 - 👋 Hi, I’m @trebucet
-- ==================================================
-- 👀 I’m interested in Basic Computer Science
-- ==================================================
+- Just Call Me: "BRO"
+- =======
+- 👀 I’m interested in Basic Computer Science such as:
+- Basic Programming: C++, Python
+- Web Programming: HTML-CSS-JS-PHP-Go
+- Database Management: MariaDB / SQL
+- =======
 - 🌱 I’m currently learning in Boyolali University 
 - Universitas Boyolali (UBY)
 - Central Java - Indonesia
-- ==================================================
-- 💞️ I’m looking to collaborate on ...
-- ==================================================
-- 📫 How to reach me ...
-- ==================================================
+- =======
+- 💞️ I’m looking to collaborate on Github
+- =======
+- 📫 How to reach me: c20010004@uby.ac.id
+- =======
 
 <!---
 trebucet/trebucet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
