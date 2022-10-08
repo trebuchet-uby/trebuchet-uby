@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning in Boyolali University 
   - Universitas Boyolali (UBY)
-  - Central Java - Indonesia
+  - Central Java
+  - Indonesia
 
 - 💞️ I’m looking to collaborate on Github
 
