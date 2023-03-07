@@ -6,6 +6,8 @@
   - Basic Programming: C++, Go, Python
   - Basic Web Programming: HTML-CSS-JS-PHP
   - Basic Database Management System: MariaDB / SQL
+  - Basic Desktop Programming: Lazarus Free Pascal
+  - Basic Mobile Programming: Dart/Flutter
 
 - 🌱 I’m currently learning in Boyolali University 
   - Universitas Boyolali (UBY)
