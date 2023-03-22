@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
 
 <=======>
 - 👋 Hi, I’m @trebucet
@@ -22,6 +22,10 @@
 - 💞️ I’m looking to collaborate on Github
 
 - 📫 How to reach me: c20010004@uby.ac.id
+
+<=======>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trebuchet-uby)
 
 
 <!---
