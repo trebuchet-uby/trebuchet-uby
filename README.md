@@ -11,6 +11,7 @@
 
 - 🌱 I’m currently learning in Boyolali University 
   - Universitas Boyolali (UBY)
+  - Boyolali
   - Central Java
   - Indonesia
 
