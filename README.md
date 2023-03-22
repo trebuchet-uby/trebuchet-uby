@@ -1,3 +1,7 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
 <=======>
 - 👋 Hi, I’m @trebucet
   - Just Call Me: "BRO"
