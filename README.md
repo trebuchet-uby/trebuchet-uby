@@ -33,10 +33,13 @@
 
 <=======>
 
-## My Github stats
-<p align="left">
+## My Github Stats
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trebuchet-uby&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trebuchet-uby&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trebuchet-uby&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <p align="center">
