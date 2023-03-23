@@ -1,9 +1,9 @@
 
 <=======>
-- 👋 Hi, I’m @trebucet
+- 👋 Hi, I’m Andhi Prasetyo
   - Just Call Me: "BRO"
 
-- 👀 I’m interested in Basic Computer Science such as:
+- 👀 I am trying to learn basic Computer Science such as:
   - Basic Programming: C++, Go, Python
   - Basic Web Programming: HTML-CSS-JS-PHP
   - Basic Database Management System: MariaDB / SQL
@@ -22,20 +22,17 @@
 
 <=======>
 
-<p align="center">
-  <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=trebuchet-uby&theme=vue-dark&)](https://git.io/streak-stats)">
-</p>
-
 ## My Github stats
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trebuchet-uby&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trebuchet-uby&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
+<p align="center">
+  <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=trebuchet-uby&theme=vue-dark&)](https://git.io/streak-stats)">
+</p>
+
 <=======>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trebuchet-uby)
-
 
 <!---
 trebucet/trebucet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
