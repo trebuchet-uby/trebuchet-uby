@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img height="170em" src="http://github-readme-streak-stats.herokuapp.com?user=trebuchet-uby&theme=vue-dark&)](https://git.io/streak-stats)">
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=trebuchet-uby&theme=dracula)](https://git.io/streak-stats)">
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trebuchet-uby&theme=dracula)](https://git.io/streak-stats)
