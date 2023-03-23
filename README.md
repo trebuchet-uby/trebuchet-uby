@@ -22,18 +22,17 @@
 
 <=======>
 
-## My Github Stats
+## My Github Streaks Stats:
 
-<p align="center">
+<p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trebuchet-uby&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-
-<p align="center">
+<p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trebuchet-uby&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 </p>
 
-<p align="center">
+<p>
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=trebuchet-uby&theme=dracula&)](https://git.io/streak-stats)">
 </p>
 
