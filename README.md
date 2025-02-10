@@ -5,7 +5,7 @@
 
 - 👀 I am trying to learn basic Computer Science such as:
   - Basic Programming: C++, Go, Python
-  - Basic Web Programming: HTML-CSS-JS-PHP
+  - Basic Web Programming: HTML-CSS-JS-PHP & Laravel Framework
   - Basic Database Management System: MariaDB / SQL
   - Basic Desktop Programming: Lazarus Free Pascal
   - Basic Mobile Programming: Dart/Flutter
